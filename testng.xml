@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Testngpractice Test">
+	<test name="Functional Testing">
+		<classes>
+			<class name="Testngpractice.AssertDemoVerifyTitle" />
+			<class name="Testngpractice.GroupTestDemo" />
+			<class name="Testngpractice.CreateTestSuiteDemo" />
+			<class name="Testngpractice.SoftAssertionDemo" />
+			<class name="Testngpractice.LoginTestDemo" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
